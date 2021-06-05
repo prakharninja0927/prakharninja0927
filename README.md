@@ -20,9 +20,11 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange-thumbnail.png"/>
 <img align="left" src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img  src="https://img.icons8.com/fluent/48/000000/github.png"/>
+
 
 <br>
 Here are some ideas to get you started:
