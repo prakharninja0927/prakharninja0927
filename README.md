@@ -1,7 +1,7 @@
 ### Hi there,I'm Prakhar Patel 👋
 
 ## I'm studying in L. D. College Of Engineering at present!!
-* Bachelor's Of Engineering(BE) 
+* 🔭 Bachelor's Of Engineering(BE) 
 * <img src="https://img.icons8.com/emoji/18/000000/desktop-computer.png"/> Information Technology(IT)   
 
 
