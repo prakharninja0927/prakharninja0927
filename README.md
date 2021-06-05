@@ -1,8 +1,14 @@
 ### Hi there,I'm Prakhar Patel 👋
 
 ## I'm studying in L. D. College Of Engineering at present!!
-* 🔭 Bachelor's Of Engineering(BE) 
-* <img src="https://img.icons8.com/emoji/18/000000/desktop-computer.png"/> Information Technology(IT)   
+- 🔭 Bachelor's Of Engineering(BE).
+- <img src="https://img.icons8.com/emoji/18/000000/desktop-computer.png"/> Information Technology(IT) Final Year.
+- 🌱 I’m currently learning whole nine yards.
+- 🔭 I’m currently working on my Django Project.
+- ⚡ Zealous resting on new technologies.
+- 🥅 Become pretty good Data Scientist.
+
+## Connect with me:
 
 
 Here are some ideas to get you started:
