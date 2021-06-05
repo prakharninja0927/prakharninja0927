@@ -24,13 +24,13 @@
 <img align="left" src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img  src="https://img.icons8.com/fluent/48/000000/github.png"/>
-
-
 <br>
 
 ### Connect with me:
 [<img src="https://img.icons8.com/ios-filled/48/000000/medium-monogram--v2.png"/>](https://medium.com/@patel-prakhar09)
 [<img src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>](https://www.linkedin.com/in/patel-prakhar-2b3b591a4)
+
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
