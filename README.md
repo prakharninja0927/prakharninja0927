@@ -30,6 +30,7 @@
 [<img src="https://img.icons8.com/ios-filled/48/000000/medium-monogram--v2.png"/>](https://medium.com/@patel-prakhar09 "Medium")
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/prakhar-patel-2b3b591a4 "Linkedin")
 [<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCpY1ZJpK3wVOPbr3t5Wblfw "Youtube")
+[<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/Prakhar57421083 "twitter")
 
 <br>
 Here are some ideas to get you started:
