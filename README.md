@@ -31,7 +31,7 @@
 - [Basic Fundamentals Of Statistics Every Data Scientist Should Know.](https://patel-prakhar09.medium.com/basic-fundamentals-of-statistics-every-data-scientist-should-know-ab30425c6f76)
 - [Covariance & Correlation](https://patel-prakhar09.medium.com/covariance-correlation-d6e511bdb62c)
 
----
+
 ## Connect with me:
 [<img src="https://img.icons8.com/ios-filled/48/000000/medium-monogram--v2.png"/>](https://medium.com/@patel-prakhar09 "Medium")
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/prakhar-patel-2b3b591a4 "Linkedin")
@@ -40,7 +40,7 @@
 [<img src="https://img.icons8.com/fluent/48/000000/domain.png"/>](https://prakharpatel.netlify.app/ "Portfolio")
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
