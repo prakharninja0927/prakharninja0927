@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there,I'm Prakhar Patel 👋
 
-<!--
-**prakharninja0927/prakharninja0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm studying in L. D. College Of Engineering at present!!
+* Bachelor's Of Engineering(BE) 
+* Information Technology <img src="https://img.icons8.com/emoji/48/000000/desktop-computer.png"/>
+
 
 Here are some ideas to get you started:
 
