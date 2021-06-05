@@ -30,7 +30,7 @@
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/prakhar-patel-2b3b591a4 "Linkedin")
 [<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCpY1ZJpK3wVOPbr3t5Wblfw "Youtube")
 [<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/Prakhar57421083 "twitter")
-[<img src="https://img.icons8.com/fluent/48/000000/domain.png"/>](prakharpatel.netlify.app "Portfolio")
+[<img src="https://img.icons8.com/fluent/48/000000/domain.png"/>](https://prakharpatel.netlify.app/ "Portfolio")
 
 <br>
 Here are some ideas to get you started:
