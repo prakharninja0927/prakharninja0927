@@ -29,7 +29,7 @@
 <br>
 
 ### Connect with me:
-[<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/>](https://medium.com/@patel-prakhar09)
+[<img src="https://img.icons8.com/ios-filled/48/000000/medium-monogram--v2.png"/>](https://medium.com/@patel-prakhar09)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
