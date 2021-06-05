@@ -34,7 +34,7 @@
 [<img src="https://img.icons8.com/fluent/48/000000/domain.png"/>](https://prakharpatel.netlify.app/ "Portfolio")
 
 
-<br>
+
 ## Languages & Tools:
 - [The Linear Regression !!!](https://patel-prakhar09.medium.com/the-linear-regression-74e872729679)
 - [Basic Fundamentals Of Statistics Every Data Scientist Should Know.](https://patel-prakhar09.medium.com/basic-fundamentals-of-statistics-every-data-scientist-should-know-ab30425c6f76)
