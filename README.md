@@ -2,7 +2,7 @@
 
 ## I'm studying in L. D. College Of Engineering at present!!
 * Bachelor's Of Engineering(BE) 
-* Information Technology(IT)   <img src="https://img.icons8.com/emoji/18/000000/desktop-computer.png"/>
+* <img src="https://img.icons8.com/emoji/18/000000/desktop-computer.png"/> Information Technology(IT)   
 
 
 Here are some ideas to get you started:
