@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning whole nine yards.
 - 🔭 I’m currently working on my Django Project.
 - ⚡ Zealous resting on new technologies.
-- 🥅 Become pretty good Data Scientist.
+- 🥅 My goal is to Become pretty good Data Scientist.
 
 ## Connect with me:
 
