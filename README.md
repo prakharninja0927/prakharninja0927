@@ -1,6 +1,6 @@
 ### Hi there,I'm Prakhar Patel 👋
 
-## I have just graduated from L. D. College Of Engineering and lived one my amazing days in campus!!
+## I am just graduated from L. D. College Of Engineering and lived one my amazing days in campus!!
 - 🔭 Bachelor's Of Engineering(BE).
 - <img src="https://img.icons8.com/emoji/18/000000/desktop-computer.png"/> Information Technology(IT) Final Year.
 - 🌱 I’m currently learning whole nine yards.
