@@ -12,7 +12,7 @@ I'm a graduate of the **Business Analytics program** from [Seneca College](https
 
 1. <b>[Business Analytics : Postgraduate Certificate](https://www.senecapolytechnic.ca/programs/fulltime/BAN.html)</b>  
    🏫 Seneca College, Toronto, Canada  
-   🕧 January 2024 – Present  
+   🕧 January 2024 – August 2024
 
 2. <b>[Artificial Intelligence : Postgraduate Certificate](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431)</b>  
    🏫 George Brown College, Toronto, Canada  
